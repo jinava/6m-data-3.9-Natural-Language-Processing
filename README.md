@@ -32,12 +32,12 @@ No laptop GPU or local install needed — these notebooks run on Colab's free CP
 
 | Notebook | Open |
 |---|---|
-| 01 · Monday morning (pre-class) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/01_monday_morning.ipynb) |
-| 02 · Words to vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/02_words_to_vectors.ipynb) |
-| 03 · Pretrained embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/03_pretrained_embeddings.ipynb) |
-| 04 · Semantic search engine | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/04_semantic_search.ipynb) |
-| Assignment · Recipe search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/assignment.ipynb) |
-| Optional extensions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/optional_extensions.ipynb) |
+| 01 · Monday morning (pre-class) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/01_monday_morning.ipynb) |
+| 02 · Words to vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/02_words_to_vectors.ipynb) |
+| 03 · Pretrained embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/03_pretrained_embeddings.ipynb) |
+| 04 · Semantic search engine | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/04_semantic_search.ipynb) |
+| Assignment · Recipe search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/assignment.ipynb) |
+| Optional extensions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/optional_extensions.ipynb) |
 
 > Prefer a local install (VS Code + conda)? See [setup.md](setup.md). The notebooks detect whether they're local or on Colab and load data accordingly — the same file runs in both.
 
@@ -50,7 +50,7 @@ No laptop GPU or local install needed — these notebooks run on Colab's free CP
 
 ## Phase 2 — In-class (≈ 90 min lecture + 90 min code-along)
 
-- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/s6m-data-3.9-Natural-Language-Processing/) (revisit any time)
+- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/6m-data-3.9-Natural-Language-Processing/) (revisit any time)
 - **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, validation checklist, 7-question review, course map to L10)
 - Code-along notebooks (in order):
   - [02_words_to_vectors.ipynb](notebooks/02_words_to_vectors.ipynb) — one-hot encoding, bag-of-words, the embedding intuition
